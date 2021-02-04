@@ -1,5 +1,5 @@
-# Technical Notes
-A list of techical notes for different platforms and applications.
+# Software Development
+A list of technical notes for different platforms and applications related to software development.
 
 ## Windows
 - [How to retrieve the Windows OS Product Key on a old or new computer?](windows/1.md)
