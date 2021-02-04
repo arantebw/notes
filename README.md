@@ -1,10 +1,6 @@
-# notes
-A collection of notable notes.
+# Arante Technical Notes
+A collection of technical notes by Billy Arante.
 ## Windows
-### How to retrieve the Windows OS Product Key on a old or new computer?
-- Press `Windows Key` + `X`
-- Click on `Windows PowerShell (Admin)`
-- At the `Windows PowerShell`, enter this command:
-  ```
-  wmic path SoftwareLicensingService get OA3xOriginalProductKey
-  ```
+- [How to retrieve the Windows OS Product Key on a old or new computer?](windows/1.md)
+## Sublime Text
+- [How to add `subl` (Sublime Text) to MacOS systems variable `PATH`?](subl/1.md)
