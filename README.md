@@ -6,3 +6,4 @@ A list of technical notes for different platforms and applications related to so
 
 ## Sublime Text
 - [How to add `subl` (Sublime Text) to MacOS systems variable `PATH`?](subl/1.md)
+- [How to add `subl` (Sublime Text) to Windows systems variable `PATH`?](subl/2.md)
