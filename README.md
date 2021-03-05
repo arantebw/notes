@@ -1,6 +1,6 @@
-# Software Development
+# Software Development, Stocks Trading, Ethical Hacking, etc.
 
-A list of technical notes for different platforms and applications.
+A list of personal technical notes for different platforms and applications about software development, stocks trading, ethical hacking, etc..
 
 ## Windows
 
