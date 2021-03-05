@@ -1,9 +1,12 @@
 # Software Development
-A list of technical notes for different platforms and applications related to software development.
+
+A list of technical notes for different platforms and applications.
 
 ## Windows
 
 - [How to retrieve the Windows OS Product Key on a old or new computer?](windows/1.md)
+
+- [How to view details of all active accounts?](windows/2.md)
 
 ## Sublime Text
 
