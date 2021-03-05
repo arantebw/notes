@@ -15,3 +15,7 @@ A list of technical notes for different platforms and applications.
 - [How to add `subl` (Sublime Text) to Windows systems variable `PATH`?](subl/2.md)
 
 - [How to add `subl` (Sublime Text) to MacOS systems variable `PATH`?](subl/1.md)
+
+# Ethical Hacking
+
+- [What to include in a bug report?](./ethical-hacking/1.md)
