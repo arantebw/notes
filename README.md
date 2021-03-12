@@ -16,6 +16,10 @@ A list of personal technical notes for different platforms and applications abou
 
 - [How to add `subl` (Sublime Text) to MacOS systems variable `PATH`?](./subl/1.md)
 
+## Visual Studio Code
+
+- [Visual Studio Code Keyboard Shortcuts](./code/1.md)
+
 ## Ethical Hacking
 
 - [What to include in a bug report?](./ethical-hacking/1.md)
